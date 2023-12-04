@@ -1,19 +1,19 @@
 # ED-Tech E-Learn Web App
 # Installation
 - Clone the repository.
-  ---git clone https://github.com/abhinavxpartap/E-learn-Web-app.git
+  --->[git clone https://github.com/abhinavxpartap/E-learn-Web-app.git](https://github.com/abhinavxpartap/E-Learn-Web-app.git)
 - Change into the project directory.
- ---cd E-learn-Web-app
+ --->cd E-learn-Web-app
 -  Install dependencies.
-  ---npm install
+  --->npm install
  # Usage
-  how to run the project locally.
-  -for the frontend side 
-   ---npm run dev 
-  -to run dummy api json file
-   --- cd Utilites
-   then 
-   --- npx json-server --watch db.json
+ -  how to run the project locally.
+ - for the frontend side
+   --->npm run dev 
+ - to run dummy api json file
+   ---> cd Utilites
+    - then type
+   ---> npx json-server --watch db.json
 ## Features
 
 - Course Listing Page ,Course Single Page and Student Dashbord Page Data by dummyapi integration .
